@@ -21,7 +21,9 @@ and [Lombok](https://projectlombok.org/download) also already installed in your 
 
 ```bash
 # Clone the repository
-$ git clone git@github.org:lucaslbelle/trulogic.git
+$ git clone git@github.com:LucasLBelle/trulogic.git
+
+GitHub: https://github.com/LucasLBelle/trulogic.git
 
 # Preparing Kafka in Windows 10 Desktop
 - Download binary from https://www.apache.org/dyn/closer.cgi?path=/kafka/2.8.0/kafka_2.12-2.8.0.tgz
